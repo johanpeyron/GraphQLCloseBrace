@@ -10,7 +10,7 @@
   "keywords": [
     "graphql"
   ],
-  "author": "Blixtbild",
+  "author": "Johan Peyron",
   "license": "UNLICENSED",
   "dependencies": {
     "express": "4.16.4",
